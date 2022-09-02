@@ -1,0 +1,4 @@
+#!/bin/bash
+clear 
+cd /tmp/
+mkdir my_first_directory
